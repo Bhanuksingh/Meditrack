@@ -1,0 +1,14 @@
+Patient Name: Alice
+Patient ID: P001
+
+Medical History:
+2023-01-01: Flu diagnosed
+2023-03-15: Blood pressure check
+
+Appointments:
+- 2024-06-01 with Dr. Smith - Follow-up
+- 2024-07-10 with Dr. Jones - Dental cleaning
+
+Prescriptions:
+- Paracetamol (500mg) - Twice daily
+- Ibuprofen (200mg) - Once daily

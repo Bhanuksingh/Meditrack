@@ -1,0 +1,13 @@
+Patient Name: aman
+Patient ID: 123
+
+Medical History:
+qwqe
+
+Appointments:
+- 23 with Dr. dkdjdnd - sdkjskd
+- djjd with Dr. done - wdkjskd
+
+Prescriptions:
+- eek (done) - dkjkd
+- dkd (done) - ds
